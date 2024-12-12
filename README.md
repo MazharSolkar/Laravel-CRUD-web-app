@@ -7,13 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# CRUD Web App with Laravel, MySQL, HTML, CSS, Bootstrap, and JavaScript
+# Laravel CRUD web app
 
 ## Overview
 This is a simple CRUD (Create, Read, Update, Delete) web application built with Laravel, MySQL, HTML, CSS, Bootstrap, and JavaScript. The application allows users to manage a collection of tasks. Users can create new tasks, read/view tasks, update tasks, and delete tasks.
 
 ## Features
-- **User Authentication**: Users can register, log in, and log out.
+- **User Authentication**: Users can register, log in, and log out, forgot password.
 - **Task Management**: Users can add, view, update, and delete tasks.
 - **Responsive Design**: The app uses Bootstrap for responsive design, ensuring a mobile-friendly experience.
 - **Validation**: Input validation is used for creating and updating tasks.
@@ -26,10 +26,3 @@ Before running this project, ensure you have the following installed:
 - **MySQL** or another relational database
 - **Laravel** (you can install it via Composer)
 - **Node.js** and **npm** for JavaScript dependencies (optional, for compiling assets)
-
-## Installation
-
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
